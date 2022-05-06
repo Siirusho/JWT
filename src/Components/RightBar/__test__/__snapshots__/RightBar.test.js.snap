@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Right side bar should render correct RightBar component and match with snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiContainer-root makeStyles-container-1 MuiContainer-maxWidthLg"
+  >
+    <p
+      class="MuiTypography-root makeStyles-title-2 MuiTypography-body1"
+    >
+      Online Friends
+    </p>
+    <div
+      class="MuiAvatarGroup-root"
+    >
+      <div
+        class="MuiAvatar-root MuiAvatar-circular MuiAvatarGroup-avatar"
+        style="z-index: 5;"
+      >
+        <img
+          alt="Remy Sharp"
+          class="MuiAvatar-img"
+          src="https://material-ui.com/static/images/avatar/1.jpg"
+        />
+      </div>
+      <div
+        class="MuiAvatar-root MuiAvatar-circular MuiAvatarGroup-avatar"
+        style="z-index: 4;"
+      >
+        <img
+          alt="Travis Howard"
+          class="MuiAvatar-img"
+          src="https://material-ui.com/static/images/avatar/2.jpg"
+        />
+      </div>
+      <div
+        class="MuiAvatar-root MuiAvatar-circular MuiAvatarGroup-avatar"
+        style="z-index: 3;"
+      >
+        <img
+          alt="Cindy Baker"
+          class="MuiAvatar-img"
+          src="https://material-ui.com/static/images/avatar/3.jpg"
+        />
+      </div>
+      <div
+        class="MuiAvatar-root MuiAvatar-circular MuiAvatarGroup-avatar"
+        style="z-index: 2;"
+      >
+        <img
+          alt="Agnes Walker"
+          class="MuiAvatar-img"
+          src="https://material-ui.com/static/images/avatar/4.jpg"
+        />
+      </div>
+      <div
+        class="MuiAvatar-root MuiAvatar-circular MuiAvatarGroup-avatar"
+        style="z-index: 1;"
+      >
+        <img
+          alt="Trevor Henderson"
+          class="MuiAvatar-img"
+          src="https://material-ui.com/static/images/avatar/5.jpg"
+        />
+      </div>
+    </div>
+    <p
+      class="MuiTypography-root MuiTypography-body1"
+    >
+      Gallery
+    </p>
+    <ul
+      class="MuiImageList-root"
+      style="margin: -2px;"
+      sx="[object Object]"
+    >
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://images.unsplash.com/photo-1516802273409-68526ee1bdd6?w=164&h=164&fit=crop&auto=format"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://images.unsplash.com/photo-1522770179533-24471fcdba45?w=164&h=164&fit=crop&auto=format"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://images.unsplash.com/photo-1533827432537-70133748f5c8?w=164&h=164&fit=crop&auto=format"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c?w=164&h=164&fit=crop&auto=format"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=164&h=164&fit=crop&auto=format"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701312990.jpg"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="http://images6.fanpop.com/image/photos/41400000/amazing-sunset-photographs-greyswan618-41405529-1600-1000.jpg"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://i.pinimg.com/originals/73/a4/51/73a4514cb61dbe836b403a50bb63cc70.jpg"
+          />
+        </div>
+      </li>
+      <li
+        class="MuiImageListItem-root"
+        style="width: 50%; height: 104px; padding: 2px;"
+      >
+        <div
+          class="MuiImageListItem-item"
+        >
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzS0IRO5I_tlDbIBb0k0_ydRL6FdDNbFu9WX7kr-7GE3UJ2XDugo1TpG-25xq22OuPVw&usqp=CAU"
+          />
+        </div>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
